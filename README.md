@@ -62,8 +62,7 @@ analysis.
 ``` text
 .
 ├── README.md
-└── images/
-    └── emissions-dashboard.png
+└── Dashboard.png
 ```
 
 Update this structure to match the files in your repository.
