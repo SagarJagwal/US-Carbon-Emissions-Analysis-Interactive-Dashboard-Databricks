@@ -44,7 +44,7 @@ The dashboard contains four main visualizations:
 Add your dashboard screenshot to the repository (for example,
 `images/emissions-dashboard.png`) and update the path below:
 
-![US Carbon Emissions Dashboard](images/emissions-dashboard.png)
+![US Carbon Emissions Dashboard](Dashboard.png)
 
 ## Key Insights to Explore
 
